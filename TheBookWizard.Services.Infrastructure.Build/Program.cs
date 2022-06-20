@@ -51,7 +51,7 @@ namespace TheBookWizard.Services.Infrastructure.Build
 
                                 TargetDotNetVersion = new TargetDotNetVersion
                                 {
-                                    DotNetVersion = "6.0.100-rc.2.21505.57",
+                                    DotNetVersion = "7.0.100-preview.5.22307.18",
                                     IncludePrerelease = true
                                 }
                             },
